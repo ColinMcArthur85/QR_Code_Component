@@ -6,7 +6,7 @@
   top: 50%;
   transform: translate(-50%, -50%);
   background: var(--clr-white);
-  border-radius: 15px;
+  border-radius: 20px;
 }
 
 .card__items {
@@ -26,4 +26,3 @@
   color: var(--clr-grayish-blue);
   text-align: center;
 }
-/* Update */

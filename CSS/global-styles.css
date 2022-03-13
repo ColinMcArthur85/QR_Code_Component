@@ -35,10 +35,12 @@ img {
 h1 {
   font-weight: 700;
   font-size: 22px;
+  color: #1f314f;
 }
 
 p {
   font-weight: 400;
   font-size: 15px;
-  padding: 10px 15px;
+  padding: 10px 10px;
+  color: #7d889e;
 }

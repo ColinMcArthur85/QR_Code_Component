@@ -19,7 +19,6 @@
 
 body {
   font-family: "Outfit", sans-serif;
-  font-size: 15px;
   background: var(--clr-light-gray);
 }
 main {
@@ -33,11 +32,13 @@ img {
   margin-bottom: 1.5em;
 }
 
-h2 {
+h1 {
   font-weight: 700;
+  font-size: 22px;
 }
 
 p {
   font-weight: 400;
+  font-size: 15px;
   padding: 10px 15px;
 }

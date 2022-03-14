@@ -24,8 +24,8 @@ Desktop View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/good-old-fashion-html-and-css-Q-fmAA_bJ)
-- Live Site URL: [Add live site URL here](https://colinmcarthur85.github.io/QR_Code_Component/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/good-old-fashion-html-and-css-Q-fmAA_bJ)
+- Live Site URL: [GitHut Page](https://colinmcarthur85.github.io/QR_Code_Component/)
 
 ## My process
 
